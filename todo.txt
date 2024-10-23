@@ -1,0 +1,46 @@
+Book Sales
+Find the student with the highest efficiency for mathematics
+
+
+Cross validation is a powerful tool in machine learning that evaluates the performance of a model. It's a resampling technique that splits the data into several subsets and then uses each subset to train and test the model. Cross-validation checks how well a model works on data it hasn't seen before
+
+https://github.com/kamyu104/LeetCode-Solutions/blob/master/MySQL/users-with-two-purchases-within-seven-days.sql
+
+https://www.google.com/search?q=Longest+Winning+Streak&rlz=1C1GCEV_enUS1105US1107&oq=Longest+Winning+Streak&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDzSAQcxNzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://github.com/doocs/leetcode/blob/main/solution/3100-3199/3156.Employee%20Task%20Duration%20and%20Concurrent%20Tasks/README_EN.md
+
+https://stackoverflow.com/questions/33863937/sql-query-year-by-year-growth-of-sales
+https://leetcode.com/problems/classes-more-than-5-students/description/
+https://github.com/keineahnung2345/leetcode-cpp-practices/blob/master/596.%20Classes%20More%20Than%205%20Students.sql
+https://datalemur.com/questions/top-profitable-drugs
+https://datalemur.com/questions/patient-call-history
+https://github.com/kamyu104/LeetCode-Solutions/blob/master/MySQL/monthly-transactions-i.sql
+https://www.interviewquery.com/questions/slow-olap-aggregations
+
+
+https://www.google.com/search?q=Concatenated+Words&rlz=1C1GCEV_enUS1105US1107&oq=Concatenated+Words&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEHMjI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+https://zhengwei-liu.medium.com/leetcode-database-hard-1369-get-the-second-most-recent-activity-96d08e75e982
+https://leetcode.ca/2021-11-19-2066-Account-Balance/#google_vignette
+https://github.com/kamyu104/LeetCode-Solutions/blob/master/MySQL/unpopular-books.sql
+https://www.google.com/search?q=Game+Play+Analysis+V+leetcode+sql&rlz=1C1GCEV_enUS1105US1107&oq=Game+Play+Analysis+V+leetcode+sql&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjY0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+https://github.com/kamyu104/LeetCode-Solutions/blob/master/MySQL/the-category-of-each-member-in-the-store.sql
+https://github.com/doocs/leetcode/blob/main/solution/3100-3199/3150.Invalid%20Tweets%20II/README_EN.md
+https://www.google.com/search?q=Friends+With+No+Mutual+Friends&rlz=1C1GCEV_enUS1105US1107&oq=Friends+With+No+Mutual+Friends&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDzSAQcxODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://github.com/Qian-Yu-2020/Leetcode-Problems/blob/master/Customers%20or%20Users/%23%201142.%20User%20Activity%20for%20the%20Past%2030%20Days%20II.sql
+https://github.com/yennanliu/CS_basics/blob/master/leetcode_SQL/market-analysis-i.sql
+https://www.google.com/search?q=Viewers+Turned+Streamers&rlz=1C1GCEV_enUS1105US1107&oq=Viewers+Turned+Streamers&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+https://leetcode.ca/all/1322.htmlhttps://leetcode.ca/all/1364.html#google_vignette
+
+kubernetes
+docker
+cheff
+puppet
+dbt
+react 
+react js
+
+https://github.com/kamyu104/LeetCode-Solutions/blob/master/MySQL/the-number-of-users-that-are-eligible-for-discount.sql	
+
